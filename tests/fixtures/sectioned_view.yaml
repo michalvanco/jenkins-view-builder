@@ -28,7 +28,7 @@
                     value-type: NODE
                     include-exclude-type: excludeMatched
                 - job-filter:
-                    type: other-views
+                    type: other-view
                     other-view: OTHER_VIEW_NAME
                     include-exclude-type: excludeMatched
         - section:
